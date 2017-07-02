@@ -1,9 +1,9 @@
 #and the last short file in this repo
 
-def funcOfSum(a):
+def func(a):
 	return a+a
 
-def mainFunc():
+def main():
 	b = func(a)
 	print(b)
 	return 0
